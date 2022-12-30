@@ -18,7 +18,7 @@
 <a href="https://twitter.com/JhaMonishka" target="____blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jhamonishka" height="80" width="60" /></a>
 <a href="https://www.linkedin.com/in/monishka-jha-a0b418257/" target="____blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="monishka-jha-a0b418257" height="80" width="60" /></a>
 <a href="https://www.instagram.com/jhamonishka17/" target="____blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jhamonishka17" height="80" width="60" /></a>
-<a href=" https://www.codechef.com/users/monishka_17" target="____blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="monishka_17" height="80" width="60" /></a>
+<a href="https://www.codechef.com/users/monishka_17" target="____blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="monishka_17" height="80" width="60" /></a>
 <a href=" https://discord.gg/Monishka#7124" target="____blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Monishka#7124" height="80" width="60" /></a>
 </p>
 
