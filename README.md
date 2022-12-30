@@ -1,5 +1,8 @@
+![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...
+)]
 <h1 align="center">Hi 👋, I'm Monishka Jha</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
+
 
 - 🌱 I’m currently learning **DSA, Web and Blockchain Development**
 
