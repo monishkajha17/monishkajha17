@@ -1,4 +1,4 @@
-![MasterHead](https://miro.medium.com/max/720/1*eKQmtqPla2M7ozIuUZL83g.gif)]
+![MasterHead](https://miro.medium.com/max/720/1*eKQmtqPla2M7ozIuUZL83g.gif) height="400" width = "600"]
 <h1 align="center">Hi 👋, I'm Monishka Jha</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
