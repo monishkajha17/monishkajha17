@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **IOT, Arduino and Web 3.0 projects**
 
-- 💬 Ask me about **C++, IOT and Solidity.**
+- 💬 Ask me about **C++, IOT, Rust and Solidity.**
 
 - 📫 How to reach me **jhamonishka@gmail.com**
 
