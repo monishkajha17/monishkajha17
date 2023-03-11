@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Monishka Jha</h1>
+<h1 align="center">Hi 👋, I'm <span color = "#f72585">Monishka Jha</span></h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 
