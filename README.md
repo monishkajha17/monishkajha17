@@ -9,40 +9,20 @@
 
 <p align="center">
   <a href="mailto:jhamonishka@gmail.com">Email</a> ·
-  <a href="https://github.com/monishkajha17">GitHub</a> ·
-  <a href="https://evalverse-one.vercel.app">EvalVerse</a>
+  <a href="https://github.com/monishkajha17">GitHub</a>
 </p>
 
 ---
 
 ### What I do
 
-I'm a Product Manager at **GoDaddy**, focused on AI-powered product experiences.
+I'm a Product Manager at **GoDaddy**, working on AI-powered product experiences. My work spans product discovery and strategy, defining product direction and success metrics, and partnering with engineering, design, data, and other teams to take ideas from problem framing to launch.
 
-- Shape product strategy, vision, and roadmaps.
-- Turn customer problems into useful product experiences.
-- Partner with cross-functional teams to take ideas from discovery to launch.
-
-### Things I'm building & exploring
-
-**[EvalVerse](https://evalverse-one.vercel.app)**  
-A multimodal AI evaluation and observability project exploring how to assess AI systems beyond text and better understand their behaviour.  
-[Live product](https://evalverse-one.vercel.app) · [Documentation](https://evalverse-one.vercel.app/docs/)
-
-Alongside this, I enjoy exploring agentic AI, LLM evaluation, developer tools, and the evolving ways people build with AI.
-
-### Background & toolkit
-
-My foundation is in Electronics and Communication Engineering with a focus on Artificial Intelligence. I also enjoy getting hands-on with technology and have built and explored projects across web development, blockchain, and IoT.
-
-**Languages**  
-C++ · Python · JavaScript · TypeScript · Rust · Solidity
-
-**Development**  
-React · Next.js · Node.js · Tailwind CSS · Firebase · Google Cloud · BigQuery
-
-**Areas of exploration**  
-AI agents · Multimodal AI · LLM evaluation · AI observability · Solana · Web3 · Smart contracts · IoT
+I'm especially interested in:
+- **AI product development:** agentic experiences, multimodal AI, and intelligent workflows.
+- **Product strategy:** customer problems, product vision, roadmaps, adoption, and measurable outcomes.
+- **Evaluation & observability:** making AI systems more measurable, reliable, and useful.
+- **Technical product thinking:** understanding the systems behind the experiences we build.
 
 ### A little more about me
 
