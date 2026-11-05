@@ -16,7 +16,7 @@
 
 ### What I do
 
-I'm a Product Manager at **GoDaddy**, working on AI-powered product experiences. My work spans product discovery and strategy, defining product direction and success metrics, and partnering with engineering, design, data, and other teams to take ideas from problem framing to launch.
+I'm a Product Manager at **GoDaddy**, working on AI-powered product experiences. My work spans product discovery and strategy, defining product direction and success to take ideas from problem framing to launch.
 
 I'm especially interested in:
 - **AI product development:** agentic experiences, multimodal AI, and intelligent workflows.
