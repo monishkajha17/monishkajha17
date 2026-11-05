@@ -1,16 +1,60 @@
-<img align="centre" src="![image](https://github.com/monishkajha17/monishkajha17/assets/109274817/9183327b-f703-482b-87e2-d977a4b0f73a)
-">
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">, I'm <span color = "#f72585">Monishka Jha</span></h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<!-- Profile README for https://github.com/monishkajha17 -->
 
+<h1 align="center">Hey, I'm Monishka Jha 👋</h1>
+<h3 align="center">Product Manager at GoDaddy · AI Products · Builder</h3>
 
-- 🌱 I’m currently learning **DSA, Web and Blockchain Development**
+<p align="center">
+  I work at the intersection of <strong>AI, product strategy, and software engineering</strong> — turning complex technology and customer problems into useful product experiences.
+</p>
 
-- 👯 I’m looking to collaborate on **IOT, Arduino and Web 3.0 projects**
+<p align="center">
+  <a href="mailto:jhamonishka@gmail.com">Email</a> ·
+  <a href="https://github.com/monishkajha17">GitHub</a> ·
+  <a href="https://evalverse-one.vercel.app">EvalVerse</a>
+</p>
 
-- 💬 Ask me about **C++, IOT, Rust and Solidity.**
+---
 
-- 📫 How to reach me **jhamonishka@gmail.com**
+### What I do
 
-- ⚡ Fun fact **Pathetically Aesthetic**
+I'm a Product Manager at **GoDaddy**, working on AI-powered product experiences. My work spans product discovery and strategy, defining product direction and success metrics, and partnering with engineering, design, data, and other teams to take ideas from problem framing to launch.
 
+I'm especially interested in:
+- **AI product development:** agentic experiences, multimodal AI, and intelligent workflows.
+- **Product strategy:** customer problems, product vision, roadmaps, adoption, and measurable outcomes.
+- **Evaluation & observability:** making AI systems more measurable, reliable, and useful.
+- **Technical product thinking:** understanding the systems behind the experiences we build.
+
+### Things I'm building & exploring
+
+**[EvalVerse](https://evalverse-one.vercel.app)**  
+A multimodal AI evaluation and observability project exploring how to assess AI systems beyond text and better understand their behaviour.  
+[Live product](https://evalverse-one.vercel.app) · [Documentation](https://evalverse-one.vercel.app/docs/)
+
+Alongside this, I enjoy exploring agentic AI, LLM evaluation, developer tools, and the evolving ways people build with AI.
+
+### Background & toolkit
+
+My foundation is in Electronics and Communication Engineering with a focus on Artificial Intelligence. I also enjoy getting hands-on with technology and have built and explored projects across web development, blockchain, and IoT.
+
+**Languages**  
+C++ · Python · JavaScript · TypeScript · Rust · Solidity
+
+**Development**  
+React · Next.js · Node.js · Tailwind CSS · Firebase · Google Cloud · BigQuery
+
+**Areas of exploration**  
+AI agents · Multimodal AI · LLM evaluation · AI observability · Solana · Web3 · Smart contracts · IoT
+
+### A little more about me
+
+- I like asking *why* before jumping into *what* to build.
+- I learn best by building, experimenting, and iterating.
+- I enjoy the space where technical depth meets customer value.
+- Still curious. Still building. Still a little **pathetically aesthetic**. ✨
+
+---
+
+<p align="center">
+  <i>Building thoughtfully. Learning constantly. Making technology useful.</i>
+</p>
