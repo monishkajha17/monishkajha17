@@ -4,7 +4,7 @@
 <h3 align="center">Product Manager at GoDaddy · AI Products · Builder</h3>
 
 <p align="center">
-  I work at the intersection of <strong>AI, product strategy, and software engineering</strong> — turning complex technology and customer problems into useful product experiences.
+  I work at the intersection of <strong>AI, product strategy, and software engineering</strong> turning complex technology and customer problems into useful product experiences.
 </p>
 
 <p align="center">
