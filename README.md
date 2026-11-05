@@ -4,7 +4,7 @@
 <h3 align="center">Product Manager at GoDaddy · AI Products · Builder</h3>
 
 <p align="center">
-  I work at the intersection of <strong>AI, product strategy, and software engineering</strong> turning complex technology and customer problems into useful product experiences.
+  I work at the intersection of <strong>AI, product strategy, and software engineering</strong> — turning complex technology and customer problems into useful product experiences.
 </p>
 
 <p align="center">
@@ -17,13 +17,11 @@
 
 ### What I do
 
-I'm a Product Manager at **GoDaddy**, working on AI-powered product experiences. My work spans product discovery and strategy, defining product direction and success metrics, and partnering with engineering, design, data, and other teams to take ideas from problem framing to launch.
+I'm a Product Manager at **GoDaddy**, focused on AI-powered product experiences.
 
-I'm especially interested in:
-- **AI product development:** agentic experiences, multimodal AI, and intelligent workflows.
-- **Product strategy:** customer problems, product vision, roadmaps, adoption, and measurable outcomes.
-- **Evaluation & observability:** making AI systems more measurable, reliable, and useful.
-- **Technical product thinking:** understanding the systems behind the experiences we build.
+- Shape product strategy, vision, and roadmaps.
+- Turn customer problems into useful product experiences.
+- Partner with cross-functional teams to take ideas from discovery to launch.
 
 ### Things I'm building & exploring
 
